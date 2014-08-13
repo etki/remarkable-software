@@ -25,6 +25,10 @@
 
 * Robo: [website](http://robo.li) [github](https://github.com/Codegyre/Robo)
 
+# Multiprocessing
+
+* Spork [github](https://github.com/kriswallsmith/spork)
+
 # Media processing
 
 * Imagine: [github](https://github.com/avalanche123/Imagine)
